@@ -1,0 +1,13 @@
+root = true
+
+[src/**.{tsx,ts,jsx,js}]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+insert_final_newline = true
+
+
+[config/*.ts]
+indent_style = space
+indent_size = 2
+end_of_line = lf
